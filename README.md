@@ -24,20 +24,7 @@ Este es un proyecto de e-commerce desarrollado como parte del laboratorio de Fun
 ✅ Limpieza del carrito solo tras ver el resumen  
 ✅ Interfaz clara y organizada con Tailwind CSS  
 
----
 
-## 📸 Capturas
-
-### Carrito:
-![Carrito](./public/demo-cart.png)
-
-### Éxito:
-![Success](./public/demo-success.png)
-
-### Historial:
-![Historial](./public/demo-history.png)
-
----
 
 ## 🚀 Pasos para ejecutar el proyecto en local
 
@@ -56,7 +43,7 @@ npm install
 
 3. **Crear archivo de configuración**
 
-Crea un archivo llamado `.env.local` en la raíz del proyecto y agrega lo siguiente:
+modifica el archivo llamado `.env.local` en la raíz del proyecto y agrega lo siguiente:
 
 ```env
 STRIPE_SECRET_KEY=sk_test_tu_clave_secreta
@@ -73,4 +60,4 @@ npm run dev
 
 5. **Abrir el navegador**
 
-Abre [http://localhost:3000](http://localhost:3000) para ver el proyecto funcionando.
+Abre [http://localhost:3000/pricing](http://localhost:3000/pricing) para ver el proyecto funcionando.
