@@ -43,7 +43,7 @@ npm install
 
 3. **Crear archivo de configuración**
 
-modifica el archivo llamado `.env.local` en la raíz del proyecto y agrega lo siguiente:
+crea un archivo llamado `.env.local` en la raíz del proyecto y agrega lo siguiente:
 
 ```env
 STRIPE_SECRET_KEY=sk_test_tu_clave_secreta
